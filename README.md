@@ -2,15 +2,17 @@
 This repository contains the Scripts and Assets for the SK-XR-Mobile Application
 
 Unity Version: 2019.4.20f1
+
 Required For intallation:
-            - Unitry Editor
-            - Visual Studio/ or similar IDE
-            - Android Support
-            - IOS Support (optional)
+            - Unitry Editor;
+            - Visual Studio/ or similar IDE;
+            - Android Support;
+            - IOS Support (optional);
+
 Installed SDKs:
-            - Android SDK via Android Studio
-            - Google VR
-            - Vuforia
+            - Android SDK via Android Studio;
+            - Google VR;
+            - Vuforia;
 
 How to install Unity.
 
